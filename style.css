@@ -344,7 +344,7 @@ form .btn2{
     margin-top: 20px;
 }
 /* -------css for small screen--------- */
-@media only screen and(max-width: 768px){
+@media only screen and (max-width: 768px){
     #header{
         background-image: url(images/phone-background.png);
     }
